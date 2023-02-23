@@ -1,0 +1,97 @@
+ul{
+    list-style-type: none;
+    margin:0px;
+    padding: 0px;
+    background-color: #8010e8;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 20px;
+    color: orangered;
+    margin: 15px;
+}
+li,a:hover{
+    color: white;
+}
+p,a{
+    font-family: KacstTitleL;
+    color: orange;
+}
+body,a{
+    font-family: KacstDecorative;
+}
+h2,a{
+    background-color: olive;
+    font-size:28px;
+    text-align: center;
+}
+th,td{
+    border: 2px dotted red;
+    padding: 10px;
+    margin: 10px;
+    font-family: MathJax_Size1;
+
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    background-color: gold;
+    text-align: left;
+    color: black;
+}
+td{
+    background-color: yellow;
+}
+
+.fruits{
+    border: 3px solid orangered;
+    background:blue;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.cars{
+    border: 2px dotted purple;
+    margin: 20px;
+    background: rgba(152, 22, 60, 0.96);
+    text-align: left;
+}
+
+#school{
+    color: blue;
+    background-color: lawngreen;
+}
+.house{
+    border: blue 2px solid;
+    margin: 20px;
+    background-color: darkviolet;
+    text-align: center;
+}
+
+form{
+    background-color: #00d6fc;
+    text-align: center;
+    font-size:48px;
+    border: 4px dot-dash blueviolet;
+    color: darkorchid;
+    font-family: "Courier 10 Pitch";
+    font-style: italic;
+}
+select{
+    font-family: "Nimbus Roman";
+    color: rgba(210, 31, 33, 0.96);
+    background: #0c3181;
+}
+label{
+    text-align: left;
+    color: orangered;
+    font-size: 28px;
+padding: 20px;
+    font-style: inherit;
+}
